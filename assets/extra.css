@@ -230,8 +230,8 @@ background-color:rgb(245,0,87);
   .md-typeset .admonition.file,
   .md-typeset details.file {
   border-color:rgb(221,221,221);
-  padding-right:1em;
-  padding-left:1em;
+  padding-right:0.8em;
+  padding-left:0.8em;
   }
   .md-typeset .file > .admonition-title,
   .md-typeset .file > summary {
